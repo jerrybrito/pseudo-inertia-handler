@@ -1,0 +1,2 @@
+# Requires: circular-emptiness
+# (Not available on PyPI)
